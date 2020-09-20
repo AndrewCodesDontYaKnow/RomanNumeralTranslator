@@ -1,0 +1,29 @@
+.result {
+    font-size: 100px;
+    /* position: relative; */
+    /* bottom: 60px; */
+    /* margin: auto; */
+}
+
+.title {
+    text-shadow: 2px 2px #3D0F2B;
+}
+
+.mainCol {
+    display: flex;
+    align-items: center;
+}
+
+.body {
+    background-color: aquamarine;
+}
+
+.jumbotron {
+    background-image: linear-gradient(to bottom right, plum, #3D0F2B);
+    color:#FFFDD0;
+}
+
+.btn {
+    color: #3D0F2B;
+    background-color: #FFFDD0;
+}
