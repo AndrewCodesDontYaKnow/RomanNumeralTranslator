@@ -13,7 +13,7 @@ URL: https://andrewcodesdontyaknow.github.io/RomanNumeralTranslator/
   
   
   Screenshot of RomanNumeralTranslator
-  ![Screenshot](./img/translator.png?)
+  ![Screenshot](./img/translatorpic.png?)
 
 
   ## <a id='Installation' style='color:white;'>Installation</a>
