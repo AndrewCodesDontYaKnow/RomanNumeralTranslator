@@ -23,6 +23,7 @@ $(function () {
             return "That's not a roman numeral."
         }
     
+        if(roman === "") return "Please enter a roman numeral."
         
         // set result to zero
         var result = 0
