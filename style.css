@@ -9,6 +9,11 @@
     text-shadow: 2px 2px #3D0F2B;
 }
 
+.mainrow {
+    display: flex;
+    justify-content: space-around;
+}
+
 .mainCol {
     display: flex;
     align-items: center;
