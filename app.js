@@ -1,6 +1,6 @@
 $(function () {
 
-    // jQuery methods go here...
+    $('.result').hide()
 
     $('#translateButton').click((e) => {
 
@@ -8,7 +8,7 @@ $(function () {
 
         $(".result").text(romanToInteger(input));
 
-        console.log(romanToInteger(input))
+        $('.result').show()
 
     })
 
